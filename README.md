@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Syed Abdullah!
 
 <!-- Introduction -->
-I'm a passionate Tech Geek based in Chennai,India with expertise in various domains. 🚀
+I'm a passionate Tech Geek based in Chennai, India with expertise in various domains. 🚀
 
 <!-- Social Media Badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdullah-00b6b82a8/)
@@ -10,7 +10,7 @@ I'm a passionate Tech Geek based in Chennai,India with expertise in various doma
 <!-- About Me -->
 ## About Me
 
-🔭 I’m currently working on **Flutter Project**, exploring new realms in **Minimalistic App Structure**.  
+🔭 I’m currently working on a **Flutter Project**, exploring new realms in **Minimalistic App Structure**.  
 💡 Passionate about **Books, Basketball, Walking** and always eager to learn and explore.  
 💬 Ask me about anything related to **Computers and Tech**.  
 📫 How to reach me: syedabdullahcslab@gmail.com.  
