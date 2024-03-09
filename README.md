@@ -5,7 +5,7 @@
 I'm a passionate Tech Geek based in Chennai,India with expertise in various domains. 🚀
 
 <!-- Social Media Badges -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[Your LinkedIn URL]](https://www.linkedin.com/in/syed-abdullah-00b6b82a8/))](https://www.linkedin.com/in/syed-abdullah-00b6b82a8/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdullah-00b6b82a8/)
 
 <!-- About Me -->
 ## About Me
