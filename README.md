@@ -10,33 +10,29 @@ I'm a passionate Tech Geek with a pulse to disrupt the consumer tech industry. �
 <!-- About Me -->
 ## About Me
 
-🔭 I’m currently working on building my Indian Food based startup called **Foodex**.  
-💡 Passionate about **Books, Basketball, Walking** and always eager to learn and explore.  
-💬 Ask me about anything related to **Computers and Tech**.  
+🔭 I build Full-Stack mobile apps.  
 📫 How to reach me: syedabdullahcslab@gmail.com.  
 
 <!-- Experience -->
 ## Experience
 
-💻 **Flutter**: Crafting beautiful cross-platform apps with Flutter.  
-🤖 **Machine Learning**: Building intelligent systems with sklearn, TensorFlow, and Keras.  
-📊 **Data Analysis**: Analyzing and interpreting data to extract valuable insights.  
-📈 **Data Visualization**: Visualizing data effectively using Matplotlib and Seaborn.  
-📊 **Model Efficiency**: Optimizing machine learning models for better performance and efficiency.  
-📊 **Pandas & NumPy**: Manipulating and analyzing data efficiently with Pandas and NumPy.  
-📊 **Matplotlib & Seaborn**: Creating informative and visually appealing plots and charts.  
-🐍 **Python**: Proficient in Python for various applications including web development, data analysis, and automation.  
-🎯 **Dart**: Developing robust and scalable mobile applications with Dart.  
-💻 **HTML & CSS**: Crafting visually stunning and responsive web interfaces.  
-🔒 **Kali Linux**: Mastering the art of cybersecurity with Kali Linux.  
+## 📱 Mobile Developer
+
+Experienced in building and deploying cross-platform mobile apps with **Flutter**, published on the **Google Play Store**.  
+
+### 🔥 Tech Stack
+- **Flutter & Dart**: Building robust, scalable, and maintainable mobile applications.  
+- **Firebase**: Authentication, Firestore, and cloud services integration.  
+- **Hive**: Fast and reliable local storage solutions.  
+- **State Management**: Proficient in **Bloc**, **Riverpod**, and **Provider**.  
+- **UI/UX**: Crafting responsive, interactive, and visually engaging mobile experiences.  
+
 
 <!-- Certificates -->
 ## Certificates
 
-- [Certificate 1](https://www.freecodecamp.org/certification/Syed_Abdullah/data-analysis-with-python-v7)
-- [Certificate 2](https://www.udemy.com/certificate/UC-abfbbe35-4958-4c13-a98b-9ab3ddf4a10c/)
-- [Certificate 3](https://www.udemy.com/certificate/UC-974c5f5c-bc7a-4755-888b-9edf3cb99f9d/)
-- [Certificate 4](https://www.hackerrank.com/certificates/2799160f7c83)
+
+- [Flutter Certification](https://www.udemy.com/certificate/UC-4e39dac3-ecb8-4204-8cb4-a74d849afbdf/)
 
 <!-- Stats -->
 ## My GitHub Stats
